@@ -85,3 +85,7 @@ C:\Users\james\source\repos\WebApplication2\bin\K4os.Hash.xxHash.xml
 C:\Users\james\source\repos\WebApplication2\bin\System.Buffers.xml
 C:\Users\james\source\repos\WebApplication2\bin\System.Memory.xml
 C:\Users\james\source\repos\WebApplication2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\james\source\repos\WebApplication2\bin\PagedList.dll
+C:\Users\james\source\repos\WebApplication2\bin\PagedList.Mvc.dll
+C:\Users\james\source\repos\WebApplication2\bin\PagedList.xml
+C:\Users\james\source\repos\WebApplication2\bin\PagedList.Mvc.xml
